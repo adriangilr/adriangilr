@@ -2,11 +2,11 @@
 
 Data Analyst | Python | SQL | Operational Analytics
 
-Data analyst with an engineering background and more than 14 years of experience working in complex technical environments.
+Data analyst with an engineering background and 14+ years of experience in complex technical environments.
 
-My experience in automotive software systems exposed me to operational data, system performance metrics, and incident management processes. I focus on analyzing technical datasets to identify patterns, detect operational inefficiencies, and support data-driven decisions.
+My experience in automotive software exposed me to operational data, system performance metrics, and incident management processes. This experience led me to focus on analyzing technical datasets to identify patterns, detect operational inefficiencies and support data-driven decisions.
 
-I am currently building a data analytics portfolio focused on operational analytics and real-world technical datasets.
+Currently building a data analytics portfolio focused on operational analytics and real-world technical datasets.
 
 ---
 
