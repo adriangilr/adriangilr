@@ -16,7 +16,7 @@ Currently building a data analytics portfolio focused on operational analytics a
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-green)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-orange)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-yellow)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboarding-black)
+![PowerBI](https://img.shields.io/badge/PowerBI-Reporting-black)
 
 
 ---
