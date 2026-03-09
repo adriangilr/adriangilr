@@ -1,8 +1,10 @@
-# Hi, I'm Adrian Gil
+# Adrian Gil
 
-Data Analyst with an engineering background and more than 14 years of experience working in complex technical environments.
+Data Analyst | Python | SQL | Operational Analytics
 
-My background in automotive software engineering has given me strong exposure to operational data, system performance metrics, and incident management processes. I enjoy analyzing technical datasets to uncover patterns, understand root causes, and identify opportunities for improvement.
+Data analyst with an engineering background and more than 14 years of experience working in complex technical environments.
+
+My experience in automotive software systems exposed me to operational data, system performance metrics, and incident management processes. I focus on analyzing technical datasets to identify patterns, detect operational inefficiencies, and support data-driven decisions.
 
 I am currently building a data analytics portfolio focused on operational analytics and real-world technical datasets.
 
@@ -10,12 +12,12 @@ I am currently building a data analytics portfolio focused on operational analyt
 
 ## 🔧 Tech Stack
 
-Python • Pandas • NumPy
-SQL
-Data Visualization (Power BI / Tableau)
-Exploratory Data Analysis (EDA)
-Jupyter Notebook
-Git / GitHub
+![Python](https://img.shields.io/badge/Python-Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboarding-black)
+
 
 ---
 
