@@ -23,6 +23,22 @@ Currently building a data analytics portfolio focused on operational analytics a
 
 ## 📊 Featured Projects
 
+### ADV - Analizador de Depreciacion Vehicular
+
+Aplicación en python con streamlit y corriendo en render para analizar el comportamiento del precio de vehiculos usados en funcion de:
+
+Antiguedad
+Kilometraje
+OEM / Fabricante
+Distribución y dispersión de precios
+
+
+Tools: Python, Pandas, Pltotly, Streamlit
+
+Repository: https://github.com/adriangilr/Sp07-ADV
+
+---
+
 ### Incident & Ticket Analytics
 
 Exploratory analysis of incident and support tickets to identify operational bottlenecks and resolution trends.
@@ -35,17 +51,6 @@ Key insights:
 * Ticket backlog increases during release cycles.
 * Certain incident categories show repeated patterns.
 
-Repository: (link)
-
----
-
-### Video Game Sales Analysis
-
-Exploratory Data Analysis of global video game sales to understand platform performance and market trends.
-
-Tools: Python, Pandas, Seaborn
-
-Repository: (link)
 
 ---
 
